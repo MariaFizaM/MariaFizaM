@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MariaFizaM
 - 🌱 I’m currently learning Data Analysis and PowerBI
 - 📫 How to reach me mariameharoof@gmail.com
+- working on new projects 
 
 
 <!---
